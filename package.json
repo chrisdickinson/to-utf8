@@ -17,6 +17,7 @@
   "author": "Chris Dickinson <chris@neversaw.us>",
   "license": "MIT",
   "devDependencies": {
-    "tape": "~0.2.2"
+    "tape": "~0.2.2",
+    "convert-buffer": "0.0.2"
   }
 }
