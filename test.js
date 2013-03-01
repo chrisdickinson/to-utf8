@@ -1,5 +1,6 @@
 var test = require('tape')
   , toUTF8 = require('./index')
+  , Buffer = require('buffer').Buffer
 
 test('works as expected', function(assert) {
   var input = ['11000010', '10100010'].map(function(x) { return parseInt(x, 2) })
