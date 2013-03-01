@@ -2,6 +2,9 @@
 
 given an integer-indexable input iterable, produce a utf8 string.
 
+[![Build Status](https://travis-ci.org/chrisdickinson/to-utf8.png)](https://travis-ci.org/chrisdickinson/to-utf8)
+[![browser support](http://ci.testling.com/chrisdickinson/to-utf8.png)](http://ci.testling.com/chrisdickinson/to-utf8)
+
 ```javascript
   var utf8 = require('to-utf8')
 
